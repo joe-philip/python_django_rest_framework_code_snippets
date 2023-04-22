@@ -8,6 +8,10 @@
   --color-10-secondary: #00624d
 }
 
+*{
+  color: var(--color-30-primary);
+}
+
 body {
   margin: 0;
   padding: 0 0.5vw;
