@@ -6,7 +6,7 @@ function Usage() {
         <section id='usage'>
             <Heading text='Usage' />
             <p>
-                To use the extension, simply type a trigger keyword for the snippet you want to insert, and press the tab key. The snippet will be inserted at the cursor position in your code. For example, if you want to insert a for loop, simply type "for" and press the tab key. This will insert a for loop snippet into your code.
+                To use the extension, simply type a trigger keyword for the snippet you want to insert, and press the tab key. The snippet will be inserted at the cursor position in your code. For example, if you want to insert a for loop, simply type "for" and press the tab key. This will insert a for loop snippet into your code.To view extension at Visual Studio Marketplace <a href='https://marketplace.visualstudio.com/items?itemName=JoePhilip.pythondjangocodesnippet&ssr=false#overview' target='_blank'>click here</a>
             </p>
             <table className='snippets-documentation-table'>
                 <thead>
@@ -37,8 +37,8 @@ function Usage() {
                         <td>Create an inline for loop</td>
                     </tr>
                     <tr>
-                        <td>if</td>
-                        <td>inline|Creates an inline for loop</td>
+                        <td>if-inline</td>
+                        <td>Creates an inline for loop</td>
                     </tr>
                     <tr>
                         <td>if</td>

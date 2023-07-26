@@ -8,6 +8,7 @@ import Requirements from './components/requirements/component';
 import Usage from './components/usage/component';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+import Footer from './components/footer/component';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,6 +19,7 @@ root.render(
     <Requirements />
     <Installation />
     <Usage />
+    <Footer />
   </React.StrictMode>
 );
 
